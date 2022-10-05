@@ -42,7 +42,7 @@ SHA256: 532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25
 ## Vježba 3
 
 a) Kreirajte u **Word** programu datoteku te u nju upišite neki sadržaj. Sačuvajte dokument u ekstenziji `.docx` pod nazivom `test` na računalu (`test.docx`). Nakon toga, napravite kopiju word dokumenta te joj promijenite naziv i ekstenziju tako da ime bude identično originalnom dokumentu, dok joj je ekstenzija jednaka ekstenziji slike `.jpg` (`test.jpg`). Hoće li hash otisak (**MD5 i SHA1**) obaju dokumenata biti isti. 
-> HINT: koristite `fclv` alat od Microsofta
+
 
 b) Pretpostavimo da je tvrtka prijavila problem korporativne špijunaže u kojem smatraju da im je ukraden/kopiran tekstualni dokument u PDF-u iznimne važnosti. Budući da tvrtka ne želi otkriti sadržaj dokumenta, forenzični istražitelj dobiva u uvid hash otisak dokumenta:
 
