@@ -1,6 +1,6 @@
 # **Računalna forenzika**
 
-## Sveučilišni odjel za forenzične znanosti, 2022/2023
+## Sveučilišni odjel za forenzične znanosti, 2023/2024
 
 U ovom repozitoriju objavljivat ćemo zadatke, upute, isječke kodova, i razne sugestije vezane za laboratorijske vježbe.
 
