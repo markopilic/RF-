@@ -72,12 +72,7 @@ Nakon toga stisnite Ok, te u lijevom uglu glavnog programa kliknite **Apply** ka
 </p>
 <br/>
 
-## Upravljanje datotekama
 
-Uvjerite se da se na USB-u ne nalazi nikakav sadržaj. Nakon toga kreirajte tekstualnu datoteku (sa ekstenzijom `.txt`) i word datoteku (sa ekstenzijom `.docx`) na obje particije, NTFS i FAT32 te u njih upišite sadržaj. Pitanje:
-
-1) Kolika je fizička veličina datoteke?
-2) Kolika je logička veličina datoteke?
 
 > HINT: koristiti `chkdsk` (iz Command Prompt-a sa admin ovlastima), [WinHEX](https://www.x-ways.net/winhex/) alate te `Right click -> Properties` na tekstualnu datoteku kako bi saznali više informacija o datoteci.
 
